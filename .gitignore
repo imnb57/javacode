@@ -1,0 +1,21 @@
+# Ignore Java class files
+*.class
+
+# Ignore logs
+*.log
+
+# Ignore build directories
+bin/
+build/
+out/
+
+# Ignore IDE files (optional but common)
+*.iml
+.idea/
+*.classpath
+*.project
+.settings/
+
+# Ignore Maven and Gradle output
+target/
+.gradle/
