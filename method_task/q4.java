@@ -3,9 +3,7 @@ package method_task;
 
 
 public class q4 {
-    public q4() {
-    }
- 
+  
     public int checkword(String word) {
        int count = 1;
  
