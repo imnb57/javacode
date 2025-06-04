@@ -1,3 +1,4 @@
+package tasks;
 // 3. Imagine that you are building a geometry calculator program. You need to implement the calculation of areas for different shapes, including rectangles, squares, and circles. To achieve this, you decide to use a multilevel inheritance hierarchy.
 public class Shape {
     int length;

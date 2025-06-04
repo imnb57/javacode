@@ -1,3 +1,4 @@
+package tasks;
 // . Write a Java program to create a class called Vehicle with a method called drive(). Create a subclass called Car with method display() method to print details of the Car.
 public class Vehicle {
     private String model;
