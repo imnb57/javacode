@@ -1,3 +1,4 @@
+package Task;
 // 7. You are developing a restaurant management system that handles different types of employees, such as chefs and waiters. Design an interface named "Employee" with the following methods:
 // work(): This method should define the work responsibilities of the employee.
 // getSalary(): This method should return the salary of the employee.
