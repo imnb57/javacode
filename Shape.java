@@ -1,5 +1,5 @@
 // 1. You are developing a shape drawing application. There are different types of shapes such as circles, rectangles, and triangles. Each shape has its own area calculation method. Implement a Java program using polymorphism to calculate and display the area of different shapes.
-abstract class Shape {
+abstract class Shape2 {
     public abstract double calculateArea();
 }
 class Circle extends Shape2{
