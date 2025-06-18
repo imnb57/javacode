@@ -2,7 +2,7 @@
 abstract class Shape {
     public abstract double calculateArea();
 }
-class Circle extends Shape{
+class Circle extends Shape2{
     private final double radius;
     public Circle(int radius){
         this.radius = radius;
@@ -13,7 +13,7 @@ class Circle extends Shape{
         return area;
     }
 }
-class Rectangle extends Shape{
+class Rectangle extends Shape2{
     private final double length;
     private final double width;
     public Rectangle(double length, double width){
@@ -26,7 +26,7 @@ class Rectangle extends Shape{
         return area;
     }
 }
-class Triangle extends Shape{
+class Triangle extends Shape2{
     private final double base;
     private final double height;
     public Triangle(double base, double height){
