@@ -11,5 +11,6 @@ public class q7 {
         else{
             System.out.println("No, you can't vote");
         }
+        sc.close();
     }
 }
